@@ -14,22 +14,22 @@
 ## **Screenshot** 截图
 
 + `Start` 开始
-    - ![登录页](src/res/login.png)
+    ![登录页](src/res/login.png)
 
 ---
 
 + `Login successfully` 登录成功
-  ![login failure](src/res/login-s.png)
+    ![login failure](src/res/login-s.png)
 
 ---
 
 + `GPT输入框`
-  ![ChatInput](src/res/chat-page.png)
+    ![ChatInput](src/res/chat-page.png)
 
 ---
 
 + `Chat` 聊天
-  ![ChatPage](src/res/chat-page.png)
+    ![ChatPage](src/res/chat.png)
 
 ---
 
